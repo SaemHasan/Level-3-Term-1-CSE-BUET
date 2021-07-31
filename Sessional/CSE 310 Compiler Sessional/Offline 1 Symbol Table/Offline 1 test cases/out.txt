@@ -1,0 +1,246 @@
+Not Found
+d not found
+Inserted in ScopeTable# 1  at position  2,0
+Found in ScopeTable# 1 at position  2,0
+Deleted Entry 2,0 from current ScopeTable
+Inserted in ScopeTable# 1  at position  2,0
+Found in ScopeTable# 1 at position  2,0
+<b : d >  already exists in current ScopeTable
+Not Found
+c not found
+Not Found
+d not found
+Not Found
+d not found
+Not Found
+a not found
+ScopeTable #  1
+0 --> 
+1 --> 
+2 --> < b : a >	
+3 --> 
+
+Inserted in ScopeTable# 1  at position  3,0
+New ScopeTable with id 1.1 created
+ScopeTable #  1.1
+0 --> 
+1 --> 
+2 --> 
+3 --> 
+
+ScopeTable #  1
+0 --> 
+1 --> 
+2 --> < b : a >	
+3 --> < c : b >	
+
+Found in ScopeTable# 1 at position  2,0
+Not Found
+b not found
+New ScopeTable with id 1.1.1 created
+ScopeTable #  1.1.1
+0 --> 
+1 --> 
+2 --> 
+3 --> 
+
+ScopeTable #  1.1
+0 --> 
+1 --> 
+2 --> 
+3 --> 
+
+ScopeTable #  1
+0 --> 
+1 --> 
+2 --> < b : a >	
+3 --> < c : b >	
+
+ScopeTable #  1.1.1
+0 --> 
+1 --> 
+2 --> 
+3 --> 
+
+ScopeTable #  1.1
+0 --> 
+1 --> 
+2 --> 
+3 --> 
+
+ScopeTable #  1
+0 --> 
+1 --> 
+2 --> < b : a >	
+3 --> < c : b >	
+
+Inserted in ScopeTable# 1.1.1  at position  1,0
+Found in ScopeTable# 1 at position  3,0
+Found in ScopeTable# 1.1.1 at position  1,0
+<a : d >  already exists in current ScopeTable
+Not Found
+b not found
+Inserted in ScopeTable# 1.1.1  at position  2,0
+ScopeTable #  1.1.1
+0 --> 
+1 --> < a : b >	
+2 --> < b : a >	
+3 --> 
+
+ScopeTable #  1.1
+0 --> 
+1 --> 
+2 --> 
+3 --> 
+
+ScopeTable #  1
+0 --> 
+1 --> 
+2 --> < b : a >	
+3 --> < c : b >	
+
+Found in ScopeTable# 1.1.1 at position  1,0
+<a : a >  already exists in current ScopeTable
+New ScopeTable with id 1.1.1.1 created
+ScopeTable #  1.1.1.1
+0 --> 
+1 --> 
+2 --> 
+3 --> 
+
+ScopeTable #  1.1.1
+0 --> 
+1 --> < a : b >	
+2 --> < b : a >	
+3 --> 
+
+ScopeTable #  1.1
+0 --> 
+1 --> 
+2 --> 
+3 --> 
+
+ScopeTable #  1
+0 --> 
+1 --> 
+2 --> < b : a >	
+3 --> < c : b >	
+
+Not Found
+b not found
+Not Found
+d not found
+Not Found
+d not found
+Inserted in ScopeTable# 1.1.1.1  at position  0,0
+New ScopeTable with id 1.1.1.1.1 created
+Inserted in ScopeTable# 1.1.1.1.1  at position  0,0
+Inserted in ScopeTable# 1.1.1.1.1  at position  2,0
+Found in ScopeTable# 1.1.1.1.1 at position  2,0
+Found in ScopeTable# 1.1.1.1.1 at position  2,0
+Deleted Entry 2,0 from current ScopeTable
+ScopeTable #  1.1.1.1.1
+0 --> < d : c >	
+1 --> 
+2 --> 
+3 --> 
+
+ScopeTable #  1.1.1.1
+0 --> < d : b >	
+1 --> 
+2 --> 
+3 --> 
+
+ScopeTable #  1.1.1
+0 --> 
+1 --> < a : b >	
+2 --> < b : a >	
+3 --> 
+
+ScopeTable #  1.1
+0 --> 
+1 --> 
+2 --> 
+3 --> 
+
+ScopeTable #  1
+0 --> 
+1 --> 
+2 --> < b : a >	
+3 --> < c : b >	
+
+New ScopeTable with id 1.1.1.1.1.1 created
+Not Found
+c not found
+Not Found
+d not found
+ScopeTable with id 1.1.1.1.1.1 removed
+Inserted in ScopeTable# 1.1.1.1.1  at position  3,0
+Found in ScopeTable# 1.1.1.1.1 at position  3,0
+Deleted Entry 3,0 from current ScopeTable
+Found in ScopeTable# 1.1.1.1.1 at position  0,0
+<d : a >  already exists in current ScopeTable
+Inserted in ScopeTable# 1.1.1.1.1  at position  1,0
+ScopeTable #  1.1.1.1.1
+0 --> < d : c >	
+1 --> < a : d >	
+2 --> 
+3 --> 
+
+ScopeTable #  1.1.1.1
+0 --> < d : b >	
+1 --> 
+2 --> 
+3 --> 
+
+ScopeTable #  1.1.1
+0 --> 
+1 --> < a : b >	
+2 --> < b : a >	
+3 --> 
+
+ScopeTable #  1.1
+0 --> 
+1 --> 
+2 --> 
+3 --> 
+
+ScopeTable #  1
+0 --> 
+1 --> 
+2 --> < b : a >	
+3 --> < c : b >	
+
+Not Found
+b not found
+ScopeTable #  1.1.1.1.1
+0 --> < d : c >	
+1 --> < a : d >	
+2 --> 
+3 --> 
+
+ScopeTable #  1.1.1.1
+0 --> < d : b >	
+1 --> 
+2 --> 
+3 --> 
+
+ScopeTable #  1.1.1
+0 --> 
+1 --> < a : b >	
+2 --> < b : a >	
+3 --> 
+
+ScopeTable #  1.1
+0 --> 
+1 --> 
+2 --> 
+3 --> 
+
+ScopeTable #  1
+0 --> 
+1 --> 
+2 --> < b : a >	
+3 --> < c : b >	
+
+Found in ScopeTable# 1.1.1.1.1 at position  1,0

@@ -1,0 +1,34 @@
+void x; 
+float x;  
+//x = 2;
+int func2(int x, float y)
+{
+	if(x<5) if(y>6)  x = 6; else x = 7; 	
+	printf(x);	
+	return x;
+}
+//int p = func2(3,8); 
+//printf(p);
+/* This is ABC comment 
+*/ 
+float func(int x, float y)
+{
+	char ch = 'c; 
+	char c[]="ab\td";
+	return x;
+}
+int func(int x, float y)
+{
+	for(int i=0; i<n; i++){i = 5; }
+	return y;
+}
+ 
+//float a = 1. ;
+int var(int-){
+}
+void foo(){
+	int x; 
+int main(){
+	int x-y,z;
+}
+
